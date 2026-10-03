@@ -42,7 +42,7 @@ Make sure you're working on **your fork**, not the original repository.
 
 ---
 
-### 3. Edit the README
+### 3. Edit theREADME
 
 Open the `README.md` file.
 
